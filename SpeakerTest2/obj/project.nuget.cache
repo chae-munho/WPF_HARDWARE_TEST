@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfMue7KJuIk=",
+  "success": true,
+  "projectFilePath": "C:\\ean\\수소가스충전소비전프로젝트\\codes\\SpeakerTest2\\SpeakerTest2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\munho\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\naudio\\2.2.1\\naudio.2.2.1.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\naudio.asio\\2.2.1\\naudio.asio.2.2.1.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\naudio.core\\2.2.1\\naudio.core.2.2.1.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\naudio.midi\\2.2.1\\naudio.midi.2.2.1.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\naudio.winforms\\2.2.1\\naudio.winforms.2.2.1.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\munho\\.nuget\\packages\\system.speech\\10.0.2\\system.speech.10.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "패키지 취약성 데이터를 가져오는 동안 오류가 발생했습니다. https://api.nuget.org/v3/index.json 소스에 대한 서비스 인덱스를 로드할 수 없습니다.",
+      "projectPath": "C:\\ean\\수소가스충전소비전프로젝트\\codes\\SpeakerTest2\\SpeakerTest2.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\ean\\수소가스충전소비전프로젝트\\codes\\SpeakerTest2\\SpeakerTest2.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

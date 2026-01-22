@@ -1,0 +1,122 @@
+﻿<Window x:Class="JkUsbApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="USB Relay Manager (WPF - JkUsbApp)"
+        Width="460" Height="560"
+        Loaded="Window_Loaded"
+        Closed="Window_Closed">
+
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="12"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="140"/>
+        </Grid.RowDefinitions>
+
+       
+        <StackPanel Orientation="Horizontal" Grid.Row="0">
+            <Button x:Name="BtnFind" Width="120" Height="30" Margin="0,0,10,0"
+                    Content="Find device" Click="BtnFind_Click"/>
+            <ComboBox x:Name="ComboDevices" Width="280" Height="30"/>
+        </StackPanel>
+
+       
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="0,10,0,0" VerticalAlignment="Center">
+            <Button x:Name="BtnOpen" Width="120" Height="30" Margin="0,0,10,0"
+                    Content="Open device" Click="BtnOpen_Click"/>
+            <Border x:Name="OpenStatus" Width="60" Height="30" Background="Red"
+                    BorderBrush="Black" BorderThickness="1" />
+            <Button x:Name="BtnClose" Width="120" Height="30" Margin="10,0,0,0"
+                    Content="Close device" Click="BtnClose_Click"/>
+        </StackPanel>
+
+       
+        <GroupBox Header="Relay Channels" Grid.Row="3" Margin="0,0,0,0">
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90"/>
+                    <ColumnDefinition Width="70"/>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="70"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                </Grid.RowDefinitions>
+
+              
+                <TextBlock Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Text="Relay 1"/>
+                <Button Grid.Row="0" Grid.Column="1" Content="Open" Tag="1" Click="RelayOpen_Click"/>
+                <Border Grid.Row="0" Grid.Column="2" Width="25" Height="25" x:Name="RelayStatus1" Background="Red" BorderBrush="Black" BorderThickness="1"/>
+                <Button Grid.Row="0" Grid.Column="3" Content="Close" Tag="1" Click="RelayClose_Click"/>
+
+               
+                <TextBlock Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Text="Relay 2"/>
+                <Button Grid.Row="1" Grid.Column="1" Content="Open" Tag="2" Click="RelayOpen_Click"/>
+                <Border Grid.Row="1" Grid.Column="2" Width="25" Height="25" x:Name="RelayStatus2" Background="Red" BorderBrush="Black" BorderThickness="1"/>
+                <Button Grid.Row="1" Grid.Column="3" Content="Close" Tag="2" Click="RelayClose_Click"/>
+
+               
+                <TextBlock Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Text="Relay 3"/>
+                <Button Grid.Row="2" Grid.Column="1" Content="Open" Tag="3" Click="RelayOpen_Click"/>
+                <Border Grid.Row="2" Grid.Column="2" Width="25" Height="25" x:Name="RelayStatus3" Background="Red" BorderBrush="Black" BorderThickness="1"/>
+                <Button Grid.Row="2" Grid.Column="3" Content="Close" Tag="3" Click="RelayClose_Click"/>
+
+               
+                <TextBlock Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" Text="Relay 4"/>
+                <Button Grid.Row="3" Grid.Column="1" Content="Open" Tag="4" Click="RelayOpen_Click"/>
+                <Border Grid.Row="3" Grid.Column="2" Width="25" Height="25" x:Name="RelayStatus4" Background="Red" BorderBrush="Black" BorderThickness="1"/>
+                <Button Grid.Row="3" Grid.Column="3" Content="Close" Tag="4" Click="RelayClose_Click"/>
+
+               
+                <TextBlock Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" Text="Relay 5"/>
+                <Button Grid.Row="4" Grid.Column="1" Content="Open" Tag="5" Click="RelayOpen_Click"/>
+                <Border Grid.Row="4" Grid.Column="2" Width="25" Height="25" x:Name="RelayStatus5" Background="Red" BorderBrush="Black" BorderThickness="1"/>
+                <Button Grid.Row="4" Grid.Column="3" Content="Close" Tag="5" Click="RelayClose_Click"/>
+
+               
+                <TextBlock Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" Text="Relay 6"/>
+                <Button Grid.Row="5" Grid.Column="1" Content="Open" Tag="6" Click="RelayOpen_Click"/>
+                <Border Grid.Row="5" Grid.Column="2" Width="25" Height="25" x:Name="RelayStatus6" Background="Red" BorderBrush="Black" BorderThickness="1"/>
+                <Button Grid.Row="5" Grid.Column="3" Content="Close" Tag="6" Click="RelayClose_Click"/>
+
+              
+                <TextBlock Grid.Row="6" Grid.Column="0" VerticalAlignment="Center" Text="Relay 7"/>
+                <Button Grid.Row="6" Grid.Column="1" Content="Open" Tag="7" Click="RelayOpen_Click"/>
+                <Border Grid.Row="6" Grid.Column="2" Width="25" Height="25" x:Name="RelayStatus7" Background="Red" BorderBrush="Black" BorderThickness="1"/>
+                <Button Grid.Row="6" Grid.Column="3" Content="Close" Tag="7" Click="RelayClose_Click"/>
+
+              
+                <TextBlock Grid.Row="7" Grid.Column="0" VerticalAlignment="Center" Text="Relay 8"/>
+                <Button Grid.Row="7" Grid.Column="1" Content="Open" Tag="8" Click="RelayOpen_Click"/>
+                <Border Grid.Row="7" Grid.Column="2" Width="25" Height="25" x:Name="RelayStatus8" Background="Red" BorderBrush="Black" BorderThickness="1"/>
+                <Button Grid.Row="7" Grid.Column="3" Content="Close" Tag="8" Click="RelayClose_Click"/>
+            </Grid>
+        </GroupBox>
+
+      
+        <StackPanel Orientation="Horizontal" Grid.Row="4" Margin="0,10,0,0">
+            <Button x:Name="BtnOpenAll" Width="200" Height="45" Margin="0,0,10,0"
+                    Content="Open All" Click="BtnOpenAll_Click"/>
+            <Button x:Name="BtnCloseAll" Width="200" Height="45"
+                    Content="Close All" Click="BtnCloseAll_Click"/>
+        </StackPanel>
+
+      
+        <TextBox x:Name="TxtLog" Grid.Row="5"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"
+                 IsReadOnly="True"
+                 TextWrapping="Wrap"/>
+    </Grid>
+</Window>

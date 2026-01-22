@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\SpeakerTest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C83B7C-FADB-4E30-9428-C37FF522615B}|SpeakerTest2.csproj|c:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\speakertest2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C83B7C-FADB-4E30-9428-C37FF522615B}|SpeakerTest2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C83B7C-FADB-4E30-9428-C37FF522615B}|SpeakerTest2.csproj|c:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\speakertest2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17C83B7C-FADB-4E30-9428-C37FF522615B}|SpeakerTest2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\SpeakerTest2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\SpeakerTest2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-19T06:15:47.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\SpeakerTest2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\SpeakerTest2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:15:46.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
