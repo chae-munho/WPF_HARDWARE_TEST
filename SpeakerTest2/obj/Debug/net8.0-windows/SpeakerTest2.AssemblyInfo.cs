@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeakerTest2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69cd0f30eef4329821edf50fd807f4387663f927")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6edb5b90de109dac40843984138605bcc2d11caf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeakerTest2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeakerTest2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

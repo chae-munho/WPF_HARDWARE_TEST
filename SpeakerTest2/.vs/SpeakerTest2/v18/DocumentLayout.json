@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +30,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\codes\\SpeakerTest2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\codes\\SpeakerTest2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:44:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\codes\\SpeakerTest2\\MainWindow.xaml",
@@ -37,21 +50,7 @@
               "ToolTip": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\codes\\SpeakerTest2\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-21T07:44:08.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\codes\\SpeakerTest2\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\codes\\SpeakerTest2\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:44:09.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:44:08.938Z"
             },
             {
               "$type": "Bookmark",
