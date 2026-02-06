@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JkUsbApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b822c1e5650816d593e31ca025d6619e41880d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ff0676157d1761a33e804371d8cc3ae20d4388")]
 [assembly: System.Reflection.AssemblyProductAttribute("JkUsbApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JkUsbApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

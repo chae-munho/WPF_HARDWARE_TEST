@@ -41,8 +41,7 @@
               "ToolTip": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\codes\\ICF1058\\BeaconRelayControlWpf\\MainWindow.xaml",
               "RelativeToolTip": "BeaconRelayControlWpf\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-22T04:30:41.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T04:30:41.656Z"
             },
             {
               "$type": "Document",
@@ -54,8 +53,7 @@
               "RelativeToolTip": "BeaconRelayControlWpf\\Services\\RelayController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAUwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T04:34:55.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T04:34:55.729Z"
             },
             {
               "$type": "Document",
@@ -65,7 +63,7 @@
               "RelativeDocumentMoniker": "BeaconRelayControlWpf\\MainWindow.xaml.cs",
               "ToolTip": "C:\\ean\\\uC218\uC18C\uAC00\uC2A4\uCDA9\uC804\uC18C\uBE44\uC804\uD504\uB85C\uC81D\uD2B8\\codes\\ICF1058\\BeaconRelayControlWpf\\MainWindow.xaml.cs",
               "RelativeToolTip": "BeaconRelayControlWpf\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAcwHkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T04:30:40.087Z",
               "EditorCaption": ""
@@ -92,8 +90,7 @@
               "RelativeToolTip": "BeaconRelayControlWpf\\Services\\RelayProtocol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T04:34:40.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T04:34:40.176Z"
             }
           ]
         }

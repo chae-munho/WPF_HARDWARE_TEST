@@ -7,7 +7,7 @@ using System.Windows.Controls;
 namespace BlinkTest
 {
    
-    [StructLayout(LayoutKind.Sequential)]
+    [StructLayout(LayoutKind.Sequential)] //필드를 코드에 적은 순서대로 메모리에 배치하라는 의미
     public struct USB_INPUT
     {
         public int ProductID;

@@ -158,6 +158,7 @@ namespace JkUsbApp
                 return;
             }
 
+            //channel에는 첫번째 버튼인지 두번째 버튼인지 저장함
             int ret = UsbRelayNative.usb_relay_device_open_one_relay_channel(_deviceHandle, channel);
             Log($"Relay {channel} OPEN: ret={ret}");
 

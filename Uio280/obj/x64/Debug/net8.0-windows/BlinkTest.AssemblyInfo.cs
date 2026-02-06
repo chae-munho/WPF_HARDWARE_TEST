@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlinkTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6edb5b90de109dac40843984138605bcc2d11caf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ff0676157d1761a33e804371d8cc3ae20d4388")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlinkTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlinkTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
